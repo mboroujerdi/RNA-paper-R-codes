@@ -1,0 +1,1 @@
+There are two R scripts in this repository. The R scripts are annotated. Create a folder for each file. Then run each script within the folder. The results will be stored in a new folder within that folder. 
